@@ -1,6 +1,6 @@
 app-id: one.jiri.easydict-gtk
 runtime: org.gnome.Platform
-runtime-version: '41'
+runtime-version: '44'
 sdk: org.gnome.Sdk
 command: easydict-gtk
 finish-args:
